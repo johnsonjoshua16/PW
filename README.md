@@ -1,4 +1,5 @@
-🧠 Programmed Worker </br>
+<u>🧠 Programmed Worker</u> </br>
+<br></br>
 Programmed Worker is a digital assistant that helps solve problems and support customers. Think of it as a smart worker that can understand tasks, answer questions, and handle simple requests automatically.
 --------------------------------------------------------------------------------------------------------------------------------
 
