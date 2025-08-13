@@ -3,7 +3,7 @@
   Programmed Worker is a digital assistant that helps solve problems and support customers. Think of it as a smart worker that can understand tasks, answer questions, and      handle simple requests automatically.
 --------------------------------------------------------------------------------------------------------------------------------
 
-💡 What It Does
+💡 What It Doesy
 Helps users by answering questions or guiding them.
 
 Solves basic problems through logic or pre-set steps.
