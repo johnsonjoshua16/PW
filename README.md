@@ -46,12 +46,70 @@
 - A command-line environment (e.g., Terminal, PowerShell)  
 - (Optional) Virtual environment tool such as `venv` or `conda`
 
-### Installation
+### Usage
+Start interacting with PW via one of its Python scripts. For example:
 
 ```bash
-git clone https://github.com/johnsonjoshua16/PW.git
-cd PW
-python3 -m venv venv        # optional but recommended
-source venv/bin/activate    # macOS/Linux
-venv\Scripts\activate       # Windows
-pip install -r requirements.txt  # if such a file exists
+python script.py
+
+```
+Or another module, depending on your desired functionality:
+
+```bash
+python ProductA.py
+
+```
+The assistant reads user input, processes it using its built-in logic or programming, and provides a response.
+
+---
+## Release History
+
+| Version     | Date         | Highlights                                                          |
+| ----------- | ------------ | ------------------------------------------------------------------- |
+| **v1.0.00** | July 5, 2025 | Initial public release — first working version of PW. ([GitHub][1]) |
+
+[1]: https://github.com/johnsonjoshua16/PW/releases?utm_source=chatgpt.com "Releases: johnsonjoshua16/PW - GitHub"
+
+---
+## Contributing
+
+PW is currently under active development — your contributions are welcome! Here’s how you can help:
+
+**1**.Fork the repository
+**2**.Create a feature branch:
+
+```bash
+git checkout -b feature/MyFeature
+
+```
+**3**.Make and test your changes
+**4**.Commit your work:
+
+```bash
+git commit -m "Add [feature]"
+
+```
+**5**. Push to your branch.
+
+```bash
+git push origin feature/MyFeature
+
+```
+**6**. Open a pull request in the main repo <br>
+
+Please include details of your changes and update this README as necessary.
+
+---
+## License
+
+PW is made available under the MIT License. See the (#LICENSE) file for details.
+
+---
+## Contact
+
+Joshua Johnson (@johnsonjoshua16) <br>
+Aspiring AI Engineer & Software Developer <br>
+London, UK <br>
+Feel free to open an issue or submit a PR if you'd like to contribute or suggest improvements!
+
+
