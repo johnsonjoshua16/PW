@@ -1,6 +1,6 @@
 # PW — Programmed Worker
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
+[![License: Apache](https://img.shields.io/badge/License-Apache-yellow.svg)](LICENSE)  
 [![Status: In Development](https://img.shields.io/badge/status-in--development-orange.svg)]()
 
 **Programmed Worker** (“PW”) is a Python-based digital assistant. It’s designed to handle tasks, answer questions, and guide users—much like an automated helper or a lightweight chatbot.
