@@ -102,7 +102,7 @@ Please include details of your changes and update this README as necessary.
 ---
 ## License
 
-PW is made available under the MIT License. See the (#LICENSE) file for details.
+PW is made available under the Apache License. See the (#LICENSE) file for details.
 
 ---
 ## Contact
