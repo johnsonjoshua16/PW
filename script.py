@@ -64,7 +64,7 @@ while True:
         
         product_name = input("Product Name: ")
         while product_name not in products1:
-            print("This products isnt available, please select another on.")
+            print("This products isnt available, please select another one.")
             product_name = input("Product Name: ")
             
         quantity = int(input("Quantity: (Maximum 10, for more, please head to the till.) "))
