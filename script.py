@@ -55,22 +55,41 @@ while True:
     # option 5
     elif ask1 == '5':
         print("Please place your order by providing the product name and quantity.")
+        products1 = [
+    "BIGGYC",
+    "HIMONLY"
+    "THEMAC"
+    "SMOOTHIE"
+]
+        
         product_name = input("Product Name: ")
+        while product_name not in products1:
+            print("This products isnt available, please select another on.")
+            product_name = input("Product Name: ")
+            
         quantity = int(input("Quantity: (Maximum 10, for more, please head to the till.) "))
         print(f"Thank you for your order of {quantity} units of {product_name}. We will process it shortly.")
+        if quantity > 10:
+            print("Please head to the till.")
+            exit()
+        else:
+            for i in range(1,3):
+                print("Loading..")
+            
         
         import random
         for i in range(2):
             print("Generating your order number...")
+            time.sleep(2)  # Add a short pause for effect
     
         chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'      
-    
         ordernum = ''
-    
         for x in range(5):
             ordernum += random.choice(chars)
     
         print(f"Your order number is: {ordernum}")
+        
+        time.sleep(5)  # This pauses before showing the menu again
 
     # option 6 (exit)
     elif ask1 == '6':
