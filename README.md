@@ -25,7 +25,7 @@
 ## About
 
 **Programmed Worker** (“PW”) is a Python-powered assistant that processes user requests, applies logic or pre-defined workflows, and provides helpful responses or performs basic tasks. Think of it as a starting point for building an AI-powered helper.  
-:contentReference[oaicite:0]{index=0}
+
 
 ---
 
@@ -34,7 +34,7 @@
 - **Task Routing** – Recognizes user intent and responds accordingly.  
 - **Built-in Logic or Knowledge Base** – Retrieves answers or executes steps.  
 - **Scriptable Modules** – Includes `ProductA.py`, `ProductB.py`, `ProductC.py` for modular functionality.  
-:contentReference[oaicite:1]{index=1}  
+
 
 ---
 
