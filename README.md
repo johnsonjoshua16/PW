@@ -108,7 +108,7 @@ PW is made available under the Apache License. See the (#LICENSE) file for detai
 ## Contact
 
 Joshua Johnson (@johnsonjoshua16) <br>
-Staple Data Scientist. <br>
+Data Science Trainee. <br>
 London, UK. <br>
 Feel free to open an issue or submit a PR if you'd like to contribute or suggest improvements!
 
