@@ -108,7 +108,7 @@ PW is made available under the Apache License. See the (#LICENSE) file for detai
 ## Contact
 
 All Rights Reserved under Mr Joshua Johnson (@johnsonjoshua16) <br>
-Machine Learning Trainee and Python Developer.<br>
+Data Science Trainee and Python Developer.<br>
 London, UK. <br>
 Feel free to open an issue or submit a PR if you'd like to contribute or suggest improvements!
 
